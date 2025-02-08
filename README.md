@@ -1,7 +1,3 @@
-Here is a detailed **Technical Specification** for your **Decentralised Memory Organ (DMO)** project, based on your initial concept. This document provides a structured breakdown of the system architecture, key components, workflows, security model, deployment strategy, and future considerations.
-
----
-
 # **Decentralised Memory Organ (DMO) – Technical Specification**
 
 ## **1. Introduction**
@@ -147,15 +143,3 @@ The system provides a REST API for agent interactions.
 Requests require:
 - **Authorization header** with a signed message.
 - Agents must sign a **nonce challenge** before each session.
-
----
-
-## **9. Conclusion**
-The **Decentralised Memory Organ (DMO)** is an advanced, distributed knowledge repository that integrates **peer-to-peer storage, cryptographic authentication, and secure execution environments**. Its **self-organizing, tamper-proof nature** makes it a resilient alternative to centralized memory storage solutions.
-
-This specification outlines a **robust, scalable architecture** that can evolve with:
-- **TEE for enhanced security**
-- **Smart contracts for governance**
-- **LLM-based memory retrieval**
-
-Would you like any refinements or additional details on a specific section? 🚀
